@@ -1,0 +1,3 @@
+1018226106,JUAN ESTEBAN DAZA REY,Ingeniero,lenovo.15092004@gmail.com,sebasJUAN,C:\Users\lenov\OneDrive\Documents\NetBeansProjects\ProyectoUno\fotosEmpleados\1018226106.jpg
+1021394190,Vanessa guzman torres,Asesor,eimy@gmail.com,12345678,C:\Users\lenov\OneDrive\Documents\NetBeansProjects\ProyectoUno\fotosEmpleados\1021394190.png
+1018226107,Sebastian Daza,Administrador,sebas.com,1018226107,C:\Users\lenov\OneDrive\Documents\NetBeansProjects\ProyectoUno\fotosEmpleados\1018226107.jpg
